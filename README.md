@@ -65,7 +65,5 @@ web application, its distributed architecture makes pomelo scales better than ot
 ####colorbox
 Colorbox is our team's another open source project. It is a client side game engine written in JavaScript based on HTML5. It will be officially open source as an independent project soon.
 
-## Viewing
 
- * Visit the [lordofpomelo](http://pomelo.netease.com/lordofpomelo)
- * or you can visit [github:lordofpomelo](http://github.com/NetEase/lordofpomelo)to download the source and install it on your local machine.
+ * 备案许可证号 [苏ICP备17019506号](www.miitbeian.gov.cn)
