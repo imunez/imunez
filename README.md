@@ -1,7 +1,5 @@
 ## 姚伟伟的个人博客
 
-讨论最新的基于cocos2d-x,cocos2d-js的游戏开发技术,以及骨骼动画,粒子动画,序列帧动画,缓动,景深,物理引擎.
-
 pomeloe系列教程-pomelo的安装
 
 Lordofpomelo is a browser-based MMORPG(massively multiplayer online role-playing game). 
